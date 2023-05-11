@@ -1,0 +1,7 @@
+# Exclude all .exe files
+*.exe
+
+# Exclude VSCode configuration files
+.vscode/
+launch.json
+tasks.json
